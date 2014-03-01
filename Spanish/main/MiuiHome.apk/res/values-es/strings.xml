@@ -177,7 +177,7 @@ Reinicie la aplicación después de completar la descarga."</string>
   <!--Original value: MM/d EEE-->
   <string name="gadget_weather_time_format">D/MM EEE</string>
   <!--Original value: -->
-  <string name="">:</string>
+  <string name="gadget_weather_time_spliter">:</string>
   <!--Original value: Weather-->
   <string name="gadget_weather_title">"Tiempo"</string>
   <!--Original value: Weather-->
@@ -461,7 +461,7 @@ Reinicie la aplicación después de completar la descarga."</string>
   <!--Original value: Uninstall-->
   <string name="uninstall">Desinstalar</string>
   <!--Original value: -->
-  <string name="">¿Desinstalar la aplicación \"%s\"?</string>
+  <string name="uninstall_body_format">¿Desinstalar la aplicación \"%s\"?</string>
   <!--Original value: Uninstalling will remove all app data.-->
   <string name="uninstall_dialog_message">"La desinstalación eliminará todos los datos de la aplicación."</string>
   <!--Original value: Uninstall \"%s\"-->
@@ -471,13 +471,13 @@ Reinicie la aplicación después de completar la descarga."</string>
   <!--Original value: Unnamed folder-->
   <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <!--Original value: -->
-  <string name="">Seleccionar aplicación</string>
+  <string name="upside_apps_title">Seleccionar aplicación</string>
   <!--Original value: -->
-  <string name="">Vacío</string>
+  <string name="upside_edit_bar_empty">Vacío</string>
   <!--Original value: -->
-  <string name="">Seleccione Apl</string>
+  <string name="upside_edit_bar_select_app">Seleccione App</string>
   <!--Original value: -->
-  <string name="">Pulse el rectángulo para editar</string>
+  <string name="upside_edit_bottom_empty_tip">Pulse el rectángulo para editar</string>
   <!--Original value: all-->
   <string name="wallpaper_scrolling">todo</string>
   <!--Original value: Editor-->
