@@ -281,4 +281,10 @@ sentido horario"</string>
   <string name="alarm_alert">"Tono por defecto"</string>
   <!--Original value: Alarm Screen and ringtone-->
   <string name="alarm_screen">"Pantalla de alarma y tonos de llamada"</string>
+  <string name="alarm_duration">Intérvalos de alarma (min)</string>
+    <string name="alarm_duration_title">Intérvalos y repeticiones</string>
+    <string name="alarm_count">Repetición de alarma (veces)</string>
+    <string name="alarm_duration_summary">La alarma sonará a intérvalos de %d minutos</string>
+    <string name="alarm_count_summary">" y se detendrá después de sonar %d veces"</string>
+    <string name="alarm_count_never_summary">" y no se dentendrá nunca"</string>
 </resources>
