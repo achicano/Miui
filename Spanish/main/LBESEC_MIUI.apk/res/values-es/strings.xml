@@ -190,4 +190,5 @@ Nota: Las Apps con permisos ROOT podrían causar inestabilidad de sistema, perdi
     <string name="Su_Enable_Dialog">"%1$s está tratando de obtener Permiso ROOT que esta deshabilitado por defecto.
 Si necesita habilitarlo, por favor vaya a Gestor de permisos en Ajustes."</string>
     <string name="Su_Unavailable">Los permisos ROOT están desactivados en la versión MIUI estable. Por favor, instale la versión MIUI desarrollo para Activar permisos de root.</string>
+<string name="HIPS_Perm_Title">Permisos</string>
 </resources>
