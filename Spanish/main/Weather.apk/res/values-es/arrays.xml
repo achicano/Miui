@@ -25,28 +25,28 @@
     <item>Ocio:</item>
   </string-array>
   <string-array name="weather_image">
-    <item>Claro</item>
-    <item>Nublado</item>
-    <item>Brumoso</item>
-    <item>Brumoso</item>
-    <item>Tormentas severas</item>
-    <item>Tormenta de la lluvia</item>
-    <item>Las fuertes lluvias</item>
+    <item>Despejado</item>
+    <item>Nuboso</item>
+    <item>Calimoso</item>
+    <item>Neblinoso</item>
+    <item>Tormentas de lluvia fuerte</item>
+    <item>Tormentas de lluvia</item>
+    <item>Chaparrón fuerte</item>
     <item>Tormenta</item>
-    <item>Duchas</item>
-    <item>Las fuertes lluvias</item>
+    <item>Chubascos</item>
+    <item>Dilvio </item>
     <item>Lluvia</item>
     <item>Llovizna</item>
     <item>Aguanieve</item>
-    <item>Ventisca</item>
-    <item>Parches de nieve</item>
-    <item>Fuertes nevadas</item>
+    <item>Tormenta de nieve</item>
+    <item>Nevada intermitente</item>
+    <item>Nevada intensa</item>
     <item>Nevada</item>
-    <item>Vista nevada</item>
+    <item>Nevada ligera</item>
     <item>Fuerte tormenta de arena</item>
     <item>Tormenta de arena</item>
-    <item>Las tormentas de arena de Luz</item>
-    <item>Tormenta de arena</item>
+    <item>Tormentas de area ligeras</item>
+    <item>Tormneta de arena</item>
     <item>Granizo</item>
     <item>Polvo</item>
     <item>Neblina</item>
